@@ -19,7 +19,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          newBranch
+          newBranch rebase
         </a>
       </header>
     </div>
